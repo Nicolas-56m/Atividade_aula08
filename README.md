@@ -15,11 +15,11 @@
 ## Testando listarPedidos(GET)
 <img width="939" height="1073" alt="image" src="https://github.com/user-attachments/assets/4fc6d7e6-c688-4572-a7f8-6218fa0a7e09" />
 
-## Testando criarClientes(POST)
+## Testando criarPedidos(POST)
 <img width="923" height="1010" alt="image" src="https://github.com/user-attachments/assets/b76cd4e1-22c5-431d-9838-8993ef100a3b" />
 
-## Testando atualizarClientes(PUT)
+## Testando atualizarPedidos(PUT)
 <img width="924" height="990" alt="image" src="https://github.com/user-attachments/assets/1d78876d-fbfa-4307-b5c6-bbd69e30c177" />
 
-## Testando atualizarCliente(DELETE)
+## Testando atualizarPedidos(DELETE)
 <img width="942" height="1011" alt="image" src="https://github.com/user-attachments/assets/66733fa6-be90-4c7b-b5c5-d3965f5c4cd3" />
