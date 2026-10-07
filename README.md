@@ -41,3 +41,15 @@
 ## Testando listarPedidosId(/pedidos/id no Thunder)(GET)
 <img width="1255" height="646" alt="image" src="https://github.com/user-attachments/assets/bcb39cf9-5de2-456f-8474-7daa37d98aee" />
 <img width="1255" height="646" alt="image" src="https://github.com/user-attachments/assets/e1144787-27b8-4424-bcfe-7a899fb4aad6" />
+
+## Testando criarClientes(/clientes/id no Thunder)(POST)
+<img width="1233" height="653" alt="image" src="https://github.com/user-attachments/assets/1a264f67-dfe6-4ab3-b2f9-7b0e41483af7" />
+
+## Testando criarProdutos(/produtos/id no Thunder)(POST)
+<img width="1255" height="647" alt="image" src="https://github.com/user-attachments/assets/73dd50b2-4903-4c7b-9c42-7fb02807266c" />
+
+## Testando criarItens(/itens/id no Thunder)(POST)
+<img width="1230" height="685" alt="image" src="https://github.com/user-attachments/assets/7e5f25d5-a9d9-4d0d-8d40-47ae58f59e7e" />
+
+## Testando criarPedidos(/pedidos/id no Thunder)(POST)
+<img width="1249" height="740" alt="image" src="https://github.com/user-attachments/assets/74e548b3-87ec-47bb-92f3-c155119fe717" />
