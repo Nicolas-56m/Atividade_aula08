@@ -53,3 +53,15 @@
 
 ## Testando criarPedidos(/pedidos/id no Thunder)(POST)
 <img width="1249" height="740" alt="image" src="https://github.com/user-attachments/assets/74e548b3-87ec-47bb-92f3-c155119fe717" />
+
+## Testando atualizarClientes(/clientes/id no Thunder)(PUT)
+<img width="1218" height="696" alt="image" src="https://github.com/user-attachments/assets/36137e0b-9899-41dc-984f-9d5ed8ba5f70" />
+
+## Testando atualizarProdutos(/clientes/id no Thunder)(PUT)
+
+## Testando atualizarItens(/clientes/id no Thunder)(PUT)
+
+## Testando atualizarPedidos(/pedidos/id no Thunder)(PUT)
+
+
+falta algumas coisas!!!
