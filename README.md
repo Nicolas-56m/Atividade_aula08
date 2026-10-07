@@ -1,16 +1,17 @@
 # Atividade_aula08
 
-## Testando listarClientes(GET)
-<img width="943" height="1010" alt="image" src="https://github.com/user-attachments/assets/f5fa4fff-9451-4f31-b8bd-86c157f1a660" />
+## Testando listarClientes(/clientes no Chrome)
+<img width="623" height="1021" alt="image" src="https://github.com/user-attachments/assets/e3f18e2f-76a8-4c1a-9d2d-82b36ea72c88" />
 
-## Testando criarClientes(POST)
-<img width="953" height="1029" alt="image" src="https://github.com/user-attachments/assets/b6ad6f95-be09-4ae1-b8a1-3e8db6353f29" />
+## Testando listarProdutos(/produtos no Chrome)
+<img width="508" height="1007" alt="image" src="https://github.com/user-attachments/assets/86a3d705-3127-46f4-9dcc-1007cbf9df95" />
 
-## Testando atualizarClientes(PUT)
-<img width="940" height="998" alt="image" src="https://github.com/user-attachments/assets/4c668b52-9748-4a51-b990-278233dc91db" />
+## Testando listarItens(/itens no Chrome)
+<img width="588" height="1003" alt="image" src="https://github.com/user-attachments/assets/bba7b6e2-51ed-4394-b5a6-4d308a190b22" />
 
-## Testando atualizarCliente(DELETE)
-<img width="950" height="1034" alt="image" src="https://github.com/user-attachments/assets/37267c89-73af-4353-9c5b-e2c23c275beb" />
+## Testando listarPedidos(/pedidos no Chrome)
+<img width="606" height="1022" alt="image" src="https://github.com/user-attachments/assets/aea14a11-482f-484e-8a5e-1f7ac47f60aa" />
+<img width="594" height="537" alt="image" src="https://github.com/user-attachments/assets/6e413bc5-c75b-45a2-b8a6-2c46fee1340c" />
 
 ## Testando listarPedidos(GET)
 <img width="939" height="1073" alt="image" src="https://github.com/user-attachments/assets/4fc6d7e6-c688-4572-a7f8-6218fa0a7e09" />
