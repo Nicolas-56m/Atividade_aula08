@@ -1,26 +1,43 @@
 # Atividade_aula08
 
-## Testando listarClientes(/clientes no Chrome)
+# Listar
+## Testando listarClientes(/clientes no Chrome)(GET)
 <img width="623" height="1021" alt="image" src="https://github.com/user-attachments/assets/e3f18e2f-76a8-4c1a-9d2d-82b36ea72c88" />
 
-## Testando listarProdutos(/produtos no Chrome)
+## Testando listarProdutos(/produtos no Chrome)(GET)
 <img width="508" height="1007" alt="image" src="https://github.com/user-attachments/assets/86a3d705-3127-46f4-9dcc-1007cbf9df95" />
 
-## Testando listarItens(/itens no Chrome)
+## Testando listarItens(/itens no Chrome)(GET)
 <img width="588" height="1003" alt="image" src="https://github.com/user-attachments/assets/bba7b6e2-51ed-4394-b5a6-4d308a190b22" />
 
-## Testando listarPedidos(/pedidos no Chrome)
+## Testando listarPedidos(/pedidos no Chrome)(GET)
 <img width="606" height="1022" alt="image" src="https://github.com/user-attachments/assets/aea14a11-482f-484e-8a5e-1f7ac47f60aa" />
 <img width="594" height="537" alt="image" src="https://github.com/user-attachments/assets/6e413bc5-c75b-45a2-b8a6-2c46fee1340c" />
 
-## Testando listarPedidos(GET)
-<img width="939" height="1073" alt="image" src="https://github.com/user-attachments/assets/4fc6d7e6-c688-4572-a7f8-6218fa0a7e09" />
+## Testando listarClientes(/clientes no Thunder)(GET)
+<img width="1235" height="673" alt="image" src="https://github.com/user-attachments/assets/551ab93a-37f3-4465-976e-b45a60cc5327" />
 
-## Testando criarPedidos(POST)
-<img width="923" height="1010" alt="image" src="https://github.com/user-attachments/assets/b76cd4e1-22c5-431d-9838-8993ef100a3b" />
+## Testando listarProdutos(/produtos no Thunder)(GET)
+<img width="1209" height="635" alt="image" src="https://github.com/user-attachments/assets/1494f5e2-911b-4a5f-8304-bf47eadf5923" />
 
-## Testando atualizarPedidos(PUT)
-<img width="924" height="990" alt="image" src="https://github.com/user-attachments/assets/1d78876d-fbfa-4307-b5c6-bbd69e30c177" />
+## Testando listarItens(/itens no Thunder)(GET)
+<img width="1261" height="633" alt="image" src="https://github.com/user-attachments/assets/733039d0-3c9b-467b-9227-905252a1c5a0" />
 
-## Testando atualizarPedidos(DELETE)
-<img width="942" height="1011" alt="image" src="https://github.com/user-attachments/assets/66733fa6-be90-4c7b-b5c5-d3965f5c4cd3" />
+## Testando listarPedidos(/pedidos no Thunder)(GET)
+<img width="1268" height="637" alt="image" src="https://github.com/user-attachments/assets/dbdb2d12-28b1-4563-aabf-0a2a1eb2990e" />
+
+## Testando listarClientesId(/clientes/id no Thunder)(GET)
+<img width="1268" height="637" alt="image" src="https://github.com/user-attachments/assets/16a7fad4-f7f5-4e5f-9507-a226cc2a1ac3" />
+<img width="1191" height="626" alt="image" src="https://github.com/user-attachments/assets/ba2f64b5-a7b0-40c1-aa73-83764b537b20" />
+
+## Testando listarProdutosId(/produtos/id no Thunder)(GET)
+<img width="1265" height="695" alt="image" src="https://github.com/user-attachments/assets/7785df62-1c76-4e4d-bc15-c0209f610bcf" />
+<img width="1255" height="646" alt="image" src="https://github.com/user-attachments/assets/c52031f9-d897-499e-912a-4a76d2d9582e" />
+
+## Testando listarItensId(/itens/id no Thunder)(GET)
+<img width="1255" height="646" alt="image" src="https://github.com/user-attachments/assets/f5fa828e-d69f-4f77-94e5-b428bb0c7e55" />
+<img width="1255" height="646" alt="image" src="https://github.com/user-attachments/assets/308f573e-68d8-4740-bf57-2061aa977481" />
+
+## Testando listarPedidosId(/pedidos/id no Thunder)(GET)
+<img width="1255" height="646" alt="image" src="https://github.com/user-attachments/assets/bcb39cf9-5de2-456f-8474-7daa37d98aee" />
+<img width="1255" height="646" alt="image" src="https://github.com/user-attachments/assets/e1144787-27b8-4424-bcfe-7a899fb4aad6" />
