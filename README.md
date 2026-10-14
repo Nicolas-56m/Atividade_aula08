@@ -1,6 +1,6 @@
 # Atividade_aula08
 
-## Listar Chrome (GET)
+## Listar no Chrome (GET)
 
 ### Testando listarClientes(/clientes no Chrome)(GET)
 <img width="623" height="1021" alt="image" src="https://github.com/user-attachments/assets/e3f18e2f-76a8-4c1a-9d2d-82b36ea72c88" />
@@ -17,7 +17,7 @@
 
 ___
 
-## Listar Thunder (GET)
+## Listar no Thunder (GET)
 
 ### Testando listarClientes(/clientes no Thunder)(GET)
 <img width="1235" height="673" alt="image" src="https://github.com/user-attachments/assets/551ab93a-37f3-4465-976e-b45a60cc5327" />
@@ -33,7 +33,7 @@ ___
 
 ___
 
-## Listar por Id Thunder (GET)
+## Listar por Id no Thunder (GET)
 
 ### Testando listarClientesId(/clientes/id no Thunder)(GET)
 <img width="1268" height="637" alt="image" src="https://github.com/user-attachments/assets/16a7fad4-f7f5-4e5f-9507-a226cc2a1ac3" />
@@ -53,7 +53,7 @@ ___
 
 ___
 
-## Criar no  Thunder (POST)
+## Criar no Thunder (POST)
 
 ### Testando criarClientes(/clientes no Thunder)(POST)
 <img width="1233" height="653" alt="image" src="https://github.com/user-attachments/assets/1a264f67-dfe6-4ab3-b2f9-7b0e41483af7" />
