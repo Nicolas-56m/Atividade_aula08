@@ -1,5 +1,10 @@
 # Atividade_aula08
 
+- Nos 4 primeiros prints eu mostro a listagem (GET) no Chrome e depois no Thunder.
+- A partir da busca por ID (GET, PUT e DELETE) eu mostro 2 prints um em baixo do outro (se deu certo e se deu errado).
+
+___
+
 ## Listar no Chrome (GET)
 
 ### Testando listarClientes(/clientes no Chrome)(GET)
