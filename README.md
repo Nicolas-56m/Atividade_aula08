@@ -42,24 +42,29 @@
 <img width="1255" height="646" alt="image" src="https://github.com/user-attachments/assets/bcb39cf9-5de2-456f-8474-7daa37d98aee" />
 <img width="1255" height="646" alt="image" src="https://github.com/user-attachments/assets/e1144787-27b8-4424-bcfe-7a899fb4aad6" />
 
-## Testando criarClientes(/clientes/id no Thunder)(POST)
+## Testando criarClientes(/clientes no Thunder)(POST)
 <img width="1233" height="653" alt="image" src="https://github.com/user-attachments/assets/1a264f67-dfe6-4ab3-b2f9-7b0e41483af7" />
 
-## Testando criarProdutos(/produtos/id no Thunder)(POST)
+## Testando criarProdutos(/produtos no Thunder)(POST)
 <img width="1255" height="647" alt="image" src="https://github.com/user-attachments/assets/73dd50b2-4903-4c7b-9c42-7fb02807266c" />
 
-## Testando criarItens(/itens/id no Thunder)(POST)
+## Testando criarItens(/itens no Thunder)(POST)
 <img width="1230" height="685" alt="image" src="https://github.com/user-attachments/assets/7e5f25d5-a9d9-4d0d-8d40-47ae58f59e7e" />
 
-## Testando criarPedidos(/pedidos/id no Thunder)(POST)
+## Testando criarPedidos(/pedidos no Thunder)(POST)
 <img width="1249" height="740" alt="image" src="https://github.com/user-attachments/assets/74e548b3-87ec-47bb-92f3-c155119fe717" />
 
 ## Testando atualizarClientes(/clientes/id no Thunder)(PUT)
-<img width="1218" height="696" alt="image" src="https://github.com/user-attachments/assets/36137e0b-9899-41dc-984f-9d5ed8ba5f70" />
+<img width="948" height="1030" alt="image" src="https://github.com/user-attachments/assets/9d949f63-f268-48a2-920a-d6665862f1fa" />
+<img width="947" height="1018" alt="image" src="https://github.com/user-attachments/assets/8f7bf8d8-2635-494d-aa8b-b7415e08eec4" />
 
-## Testando atualizarProdutos(/clientes/id no Thunder)(PUT)
+## Testando atualizarProdutos(/produtos/id no Thunder)(PUT)
+<img width="938" height="1021" alt="image" src="https://github.com/user-attachments/assets/07b71a9d-0f6e-45a1-9998-7d153f2408f0" />
+<img width="950" height="1024" alt="image" src="https://github.com/user-attachments/assets/76305dba-1cc8-4839-9fad-bd9f747b439d" />
 
-## Testando atualizarItens(/clientes/id no Thunder)(PUT)
+## Testando atualizarItens(/itens/id no Thunder)(PUT)
+<img width="925" height="1019" alt="image" src="https://github.com/user-attachments/assets/4e7f0c4a-721c-4db8-ad4c-73b65e702f86" />
+<img width="918" height="1004" alt="image" src="https://github.com/user-attachments/assets/04d282b5-a696-4b6a-b66b-d2e024003060" />
 
 ## Testando atualizarPedidos(/pedidos/id no Thunder)(PUT)
 
